@@ -21,6 +21,7 @@ public class jdbc1 {
 		if(n==1) {
 		System.out.println("Enter the data to be inserted");
 		System.out.println("First name");
+		System.out.prinln();
 		String Fin=sc.next();
 		System.out.println("Last name");
 		String Ln=sc.next();
