@@ -10,7 +10,7 @@ import java.util.Scanner;
 import com.mysql.cj.protocol.Resultset;
 
 public class jdbc1 {
-
+//using for conflict
 	public static void main(String[] args) throws SQLException{
 		// TODO Auto-generated method stub
 		String host="localhost";
