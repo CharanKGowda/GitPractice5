@@ -1,5 +1,5 @@
 package jdbcex1;
-
+//modified in git 1
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
@@ -8,10 +8,9 @@ import java.sql.Statement;
 import java.util.Scanner;
 
 import com.mysql.cj.protocol.Resultset;
-//Just typing something to modify
+
 public class jdbc1 {
-//using for conflict
-	//modifying again
+
 	public static void main(String[] args) throws SQLException{
 		// TODO Auto-generated method stub
 		String host="localhost";
