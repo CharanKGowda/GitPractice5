@@ -8,7 +8,7 @@ import java.sql.Statement;
 import java.util.Scanner;
 
 import com.mysql.cj.protocol.Resultset;
-
+//Just typing something to modify
 public class jdbc1 {
 //using for conflict
 	public static void main(String[] args) throws SQLException{
@@ -30,6 +30,7 @@ public class jdbc1 {
 		System.out.println("Customer city");
 		String c_c=sc.next();
 		System.out.println("Customer_number");
+		System.out.println();
 		String cn=sc.next();
 		try {
 			
