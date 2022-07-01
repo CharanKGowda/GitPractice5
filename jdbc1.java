@@ -29,6 +29,7 @@ public class jdbc1 {
 		System.out.println("Customer city");
 		String c_c=sc.next();
 		System.out.println("Customer_number");
+		System.out.println();
 		String cn=sc.next();
 		try {
 			
